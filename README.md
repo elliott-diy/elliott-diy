@@ -63,6 +63,7 @@ Interested in trying one out? Add me on Discord (`duplexes`).
 
 ![Elliott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elliott-diy&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elliott-diy&layout=compact&theme=tokyonight)  
+[![Elliott profile views](https://u8views.com/api/v1/github/profiles/63378937/views/day-week-month-total-count.svg)](https://u8views.com/github/elliott-diy)
 
 ---
 
@@ -72,4 +73,3 @@ Interested in trying one out? Add me on Discord (`duplexes`).
 - **Docs:** [docs.elliott.diy](https://docs.elliott.diy)  
 - **Discord:** `duplexes`  
 
-Let’s collaborate on something awesome! 🚀  
