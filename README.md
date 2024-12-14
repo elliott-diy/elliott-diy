@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a cybersecurity student focused on building practical 
 
 ## 🚀 Projects  
 
-### 🔐 [Blocklist API](https://docs.elliott.diy)  
+### 🔐 [Blocklist API](https://discord.gg/Khg2826dgB)  
 A public API designed to identify high-risk IPs like VPNs, Tor exit nodes, and Tor bridges.  
 - **Features:**  
   - Real-time analysis of IP addresses  
