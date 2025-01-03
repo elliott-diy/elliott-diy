@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a cybersecurity student focused on building practical 
 ## 🌟 About Me  
 
 - **Website:** [elliott.diy](https://elliott.diy)  
-- **Discord:** `duplexes`  
+- **Discord:** [discord.gg/binary](https://discord.gg/binary)
 - **Focus Areas:** Cybersecurity, API design, privacy-focused projects, OSINT, and PLC tomfoolery.  
 
 ---
