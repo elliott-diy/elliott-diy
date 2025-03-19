@@ -1,14 +1,14 @@
 # Hi, I'm Elliott! 👋  
 
-Welcome to my GitHub! I'm a cybersecurity student focused on building practical solutions and privacy-focused projects.
+Welcome to my GitHub! I'm a cybersecurity student focused on building practical security tools, privacy-focused projects, and automation.
 
 ---
 
 ## 🌟 About Me  
 
-- **Website:** [elliott.diy](https://elliott.diy)  
-- **Discord:** [discord.gg/binary](https://discord.gg/binary)
-- **Focus Areas:** Cybersecurity, API design, privacy-focused projects, OSINT, and PLC tomfoolery.  
+- **Website:** [elliott.diy](https://elliott.diy)
+- **Email:** hey@elliott.diy 
+- **Interests:** Cybersecurity, API design, OSINT, reverse engineering, and messing with PLCs.  
 
 ---
 
@@ -33,43 +33,40 @@ Welcome to my GitHub! I'm a cybersecurity student focused on building practical 
 
 ## 🚀 Projects  
 
-### 🔐 [Blocklist API](https://discord.gg/Khg2826dgB)  
-A public API designed to identify high-risk IPs like VPNs, Tor exit nodes, and Tor bridges.  
-- **Features:**  
-  - Real-time analysis of IP addresses  
-  - High accuracy in detecting anonymizing services  
-- **Docs:** [docs.elliott.diy](https://docs.elliott.diy)  
+### 🔍 Malware Scanner API  
+A scanner that searches GitHub repositories for suspicious terms and checks them against a malware detection API.  
+- **Why?** To collect and analyze samples for better threat detection.  
+- **API Endpoint:** `https://dev.elliott.diy/?repo=githubrepo`  
+
+### 🔐 Blocklist API  
+An API designed to identify high-risk IPs, such as VPNs, Tor exit nodes, and Tor bridges.  
+- **Status:** Currently down, but expected to be back online within the next couple of weeks.  
 
 ---
 
-### 🧩 Capture the Flag Challenges  
-I design and host CTF challenges to provide hands-on experiences in cybersecurity.  
+### 🏴‍☠️ Capture the Flag (CTF) Challenges  
+I design and host cybersecurity challenges focused on real-world vulnerabilities.  
 
-- **Topics Covered:**  
+**Topics Covered:**  
   - Insecure APIs  
   - Hash Cracking  
-  - Networking and Forensics  
+  - OSINT & Recon  
   - Reverse Engineering  
   - Cryptography  
   - Web Exploitation  
 
-Interested in trying one out? Add me on Discord (`duplexes`).  
-
 ---
-
-
 
 ## 📈 GitHub Stats  
 
 ![Elliott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elliott-diy&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elliott-diy&layout=compact&theme=tokyonight)  
-[![Elliott profile views](https://u8views.com/api/v1/github/profiles/63378937/views/day-week-month-total-count.svg)](https://u8views.com/github/elliott-diy)
+[![Profile Views](https://u8views.com/api/v1/github/profiles/63378937/views/day-week-month-total-count.svg)](https://u8views.com/github/elliott-diy)  
 
 ---
 
 ## 📬 Get in Touch  
 
-- **Website:** [elliott.diy](https://elliott.diy)  
-- **Docs:** [docs.elliott.diy](https://docs.elliott.diy)  
-- **Discord:** `duplexes`  
+- **Website:** [elliott.diy](https://elliott.diy)
+- **Email:** hey@elliott.diy
 
