@@ -1,27 +1,68 @@
-# Hi, I'm Elliott! 👋  
+# Hi, I'm Elliott 👋
 
-Welcome to my GitHub! I'm a cybersecurity student focused on building practical security tools, privacy-focused projects, and automation.
+I'm a cybersecurity student who builds practical stuff like APIs, CTF challenges, malware scanners, and IP tools. I care about privacy, automation, and breaking things to figure out how they work. Most of my projects start from random ideas that seem fun or useful, and if something breaks in the process, even better. I'm open to work if it means building or tearing apart stuff that actually matters.
 
----
+🔗 Visit my site: [elliott.diy](https://elliott.diy)
 
-## 🌟 About Me  
+📄 Docs & APIs: [docs.elliott.diy](https://docs.elliott.diy)
 
-- **Website:** [elliott.diy](https://elliott.diy)
-- **Email:** hey@elliott.diy 
-- **Interests:** Cybersecurity, API design, OSINT, reverse engineering, and messing with PLCs.  
+✉️ Contact: [hey@elliott.diy](mailto:hey@elliott.diy)
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🚀 Featured Projects
 
-### Programming & Development  
+### 🚨 API Platform 
+This is my security API backend - not just for IP stuff. It’s a bunch of endpoints I’ve built for identifying VPNs, detecting Tor traffic, scanning for malware in GitHub repos, and serving up threat data I’ve collected over time.
+
+Search IPs: Find out if an IP is a VPN, proxy, Tor exit, or sketchy hosting
+
+Malware scanning: Submit GitHub repos and look for obfuscated or sketchy payloads
+
+Tor stuff: Separate exit nodes, relays, and obfs4 bridges with different access levels
+
+Blocklists: Curated data feeds from stuff I’ve found while crawling, scanning, or reverse engineering
+
+**Docs:** [docs.elliott.diy](https://docs.elliott.diy)
+
+---
+
+### ⚡ weather2geo
+
+Turns screenshots of Windows weather widgets into geolocation data. It uses the same backend API as the widget to find cities that match the temperature, weather condition, and local time from the screenshot.
+
+* Matches weather condition + temp + time across known cities
+* Timezone-aware: localizes to each candidate city correctly
+* Returns clusters of possible matches sorted by distance
+
+**Repo:** [github.com/elliott-diy/weather2geo](https://github.com/elliott-diy/weather2geo)
+
+---
+
+### 🕵️‍♂️ GitHub Malware Scanner
+
+Scans GitHub repos for obfuscated or malicious payloads.
+
+* Analyzes file contents and commit history
+* Tracks coordinated malware campaigns
+
+**Demo:** [`https://api.elliott.diy/v1/malware/github?repo=grobarqxd6996/Discord-Boost-Tool`]([https://api.elliott.diy/github-scan](https://api.elliott.diy/v1/malware/github?repo=grobarqxd6996/Discord-Boost-Tool)) 
+
+---
+
+
+## 🧱 Tech Stack & Tools
+
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-### Tools & Platforms  
+**Infra & Platforms**
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)  
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
@@ -31,42 +72,16 @@ Welcome to my GitHub! I'm a cybersecurity student focused on building practical 
 
 ---
 
-## 🚀 Projects  
-
-### 🔍 Malware Scanner API  
-A scanner that searches GitHub repositories for suspicious terms and checks them against a malware detection API.  
-- **Why?** To collect and analyze samples for better threat detection.  
-- **API Endpoint:** `https://dev.elliott.diy/?repo=githubrepo`  
-
-### 🔐 Blocklist API  
-An API designed to identify high-risk IPs, such as VPNs, Tor exit nodes, and Tor bridges.  
-- **Status:** Currently down, but expected to be back online within the next couple of weeks.  
-
----
-
-### 🏴‍☠️ Capture the Flag (CTF) Challenges  
-I design and host cybersecurity challenges focused on real-world vulnerabilities.  
-
-**Topics Covered:**  
-  - Insecure APIs  
-  - Hash Cracking  
-  - OSINT & Recon  
-  - Reverse Engineering  
-  - Cryptography  
-  - Web Exploitation  
-
----
-
-## 📈 GitHub Stats  
+## 📊 GitHub Stats
 
 ![Elliott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elliott-diy&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elliott-diy&layout=compact&theme=tokyonight)  
-[![Profile Views](https://u8views.com/api/v1/github/profiles/63378937/views/day-week-month-total-count.svg)](https://u8views.com/github/elliott-diy)  
+[![Profile Views](https://u8views.com/api/v1/github/profiles/63378937/views/day-week-month-total-count.svg)](https://u8views.com/github/elliott-diy)
 
 ---
 
-## 📬 Get in Touch  
+## 💬 Let's Connect
 
-- **Website:** [elliott.diy](https://elliott.diy)
-- **Email:** hey@elliott.diy
-
+* 🌐 Website: [elliott.diy](https://elliott.diy)
+* 📬 Email: [hey@elliott.diy](mailto:hey@elliott.diy)
+* 📚 API Docs: [docs.elliott.diy](https://docs.elliott.diy)
