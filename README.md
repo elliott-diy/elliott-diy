@@ -4,7 +4,9 @@
 I'm a computer security student who builds random tools, scanners, CTF challenges, and whatever else seems fun to break or automate. Most of it starts as a dumb idea and ends up being useful. I care about privacy, weird edge cases, and figuring out how stuff works by messing with it.
 
 Everything lives at [elliott.diy](https://elliott.diy)
+
 Docs: [docs.elliott.diy](https://docs.elliott.diy)
+
 Contact: [hey@elliott.diy](mailto:hey@elliott.diy)
 
 ---
