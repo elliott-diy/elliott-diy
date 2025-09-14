@@ -13,8 +13,6 @@ Contact: [hey@elliott.diy](mailto:hey@elliott.diy)
 
 ## Projects
 
-**API Platform**
-
 A bunch of endpoints I use for IP stuff, GitHub malware scanning, and Tor detection.
 Check out the docs if you're curious: [docs.elliott.diy](https://docs.elliott.diy)
 
