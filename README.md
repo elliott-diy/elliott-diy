@@ -23,7 +23,7 @@ Takes a screenshot of the Windows weather widget and tries to guess the location
 
 **GitHub Malware Scanner**
 
-Scans repos for obfuscated payloads and tracks coordinated malware campaigns.
+Scans repos for obfuscated payloads and tracks malware campaigns.
 [Example scan](https://api.elliott.diy/v1/malware/github?repo=grobarqxd6996/Discord-Boost-Tool)
 
 ---
