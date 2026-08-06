@@ -30,7 +30,5 @@ Scans repos for obfuscated payloads and tracks malware campaigns.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elliott-diy\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elliott-diy\&layout=compact\&theme=tokyonight)
 [![Views](https://u8views.com/api/v1/github/profiles/63378937/views/day-week-month-total-count.svg)](https://u8views.com/github/elliott-diy)
 
